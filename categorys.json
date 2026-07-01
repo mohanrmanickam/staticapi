@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "cow"
+    },
+    {
+        "id": 2,
+        "name": "goat"
+    },
+    {
+        "id": 3,
+        "name": "sheep"
+    },
+    {
+        "id": 4,
+        "name": "buffalo"
+    },
+    {
+        "id": 5,
+        "name": "poultry"
+    },
+    {
+        "id": 6,
+        "name": "fisheries"
+    },
+    {
+        "id": 7,
+        "name": "pets"
+    },
+    {
+        "id": 8,
+        "name": "others"
+    },
+    {
+        "id": 9,
+        "name": "horse"
+    },
+    {
+        "id": 10,
+        "name": "pig"
+    }
+]
